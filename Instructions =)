@@ -1,0 +1,7 @@
+Instructions for using the calculator:
+1.Dial any number you need!
+2.Put a math symbol(There is a choice:addition, subtraction, multiplication, division)
+3.Dial the second number you choose!
+4.Click on equal.
+The output will be the number that was obtained using the mathematical operation you chose,if you need to recalculate something, then press the “С” button and follow the instructions.
+Please do not judge my program by its full rigor, this is my first project in java, it turned out quite well, a very simple calculator that each of you can write and understand the code very easily. I am open to your suggestions to make the code simpler and more practical.
